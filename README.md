@@ -32,7 +32,8 @@ Each section contains its own README file with detailed instructions. Dependenci
 
 ## 📌 Highlights
 
-- **Technologies Used**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
+- **Technologies Used**: 
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
 - **Project Highlights**:
   - Selenium: UI automation for e-commerce platforms.
   - Playwright: Cross-browser testing.
